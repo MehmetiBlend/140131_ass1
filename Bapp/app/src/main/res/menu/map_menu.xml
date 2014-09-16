@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Satellite"
+        android:id="@+id/satellite"
+        android:numericShortcut="1"
+        android:orderInCategory="100" />
+    <item
+        android:title="Terrain"
+        android:id="@+id/terrain"
+        android:numericShortcut="1"
+        android:orderInCategory="100" />
+    <item
+        android:title="Hybrid"
+        android:id="@+id/hybird"
+        android:numericShortcut="1"
+        android:orderInCategory="100" />
+    <item
+        android:title="Normal"
+        android:id="@+id/normal"
+        android:numericShortcut="1"
+        android:orderInCategory="100" />
+
+
+</menu>
